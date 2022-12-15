@@ -1,5 +1,5 @@
 {
-"New_Version" : "1.0",
-"Update_Log" : "Hello",
-"Update_Link" : "https://hello.com"
+"New_Version" : "1.1",
+"Update_Log" : "File Update:- (Just Again Download the file which you want)\n* Fixed Bug that Icon Size in Dialog v2 showing so small..\n* Fixed Button Size (V2)\n* Fixed message problem in v1 Dialog.\n\nApk Update:- \n* Removed background killing app from itself.\n* Added some exceptions that preventing app from crashing      \n   itself.\n* Added an error log activity like MT Manager\n* Fixed problem while previewing the Dialog v2 but the cancel \n   button not changing itself from editing anything in text or \n   background etc.\n* Fixed layout problem in some devices.\n* Thank you for becoming a VIP member of Modder Hub..❤️\n\nFailed Features :- \n* Unable to implement sponsor Dialog on app..\n   Sorry for that\n\nUpcoming Features:- \n* Login Dialog with best and new method...\n\nNote :- \n* Remember all things are one time purchase (2.5$ or 160₹)    \n   and will not expire in future.",
+"Update_Link" : "https://github.com/Kanha-bzs/MT_Updater_Apk/blob/main/MT%20Updater.apk?raw=true"
 }
